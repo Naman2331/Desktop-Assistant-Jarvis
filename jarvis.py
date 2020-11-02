@@ -185,3 +185,12 @@ if __name__ == '__main__':
             print("Thank You very much for your time . Good Bye .")
             speak("Thank You very much for your time . Good Bye .")
             exit()
+# project completed by Naman Singla
+# project requirements
+# 1.python-3.8.3
+# 2.pip install wikipedia for wikipedia
+# 3.pip install SpeechRecognition for  SpeechRecognition
+# 4.pip install pipwin and pipwin install pyaudio for support in SpeechRecognition module
+# 5.pip install pyttsx3 for voices
+# 6.pip install pywin32 for error of sapi5
+# 7.pip install googlesearch-python for search purpose
